@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Agent-to-UI rendering protocol — rendering-system-agnostic state representation"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-a2ui"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
